@@ -1,0 +1,18 @@
+/*Main:#FCFBF4*/
+
+body {
+    background-color: #FCFBF4;
+    margin:0;
+    padding:0;
+}
+
+nav {
+    margin-top:5%;
+    width: 100%;
+    height: 70px;
+    background-color: #b1b5a9;
+}
+
+#logo{
+    width:250px;
+}
